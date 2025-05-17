@@ -29,3 +29,7 @@ The deliverables for this task include the backup script, recovery script, and a
 To complete this task, you only need basic knowledge of MySQL and how to use the command line. All the steps are easy to follow and require just a few commands. This task gives hands-on experience in maintaining and protecting databases, which is an important skill in any IT job.
 
 In summary, Task 4 teaches you how to safely back up your database and restore it when needed. It ensures that your data is never permanently lost and can always be recovered when something unexpected happens. This is one of the most important tasks in database management and is a must-know for anyone working with data.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/0a08a800-732a-41a3-b9dc-8607ba6ce853)
